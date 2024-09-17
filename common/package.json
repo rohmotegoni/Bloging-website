@@ -1,0 +1,17 @@
+{
+  "name": "@rohmotegoni/medium-common",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts", 
+  "dependencies": {
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
