@@ -1,4 +1,4 @@
-import { number, string, z } from "zod";
+import { z } from "zod";
 
 export const signupinput = z.object({
   username: z.string().email().min(2),
